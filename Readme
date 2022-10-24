@@ -1,0 +1,6 @@
+El codigo es realizado por mi autoría. 
+Tatiana Toro
+
+En el siguiente archivo se desarrollará el análisis y visualización del conjunto de datos "Desgaste y rendimineto de empleados de IBM HR Analytics" el cual fue tomado de la plataforma Kaggle, con el fin de investigar principalmente los factores que conducen a la deserción en esta empresa, este dataset contiene 35 atributos y 1470 datos de personas. En la tabla hay atributos métricos como salario mensual, cantidad de tiempo trabajando en la empresa, y tambien atributos dicotómicos, es decir que estan categorizados por número, como campo de educación, genero. Igualmente cada atributo se explica detalladamente más adelante.
+
+El análisis de este tema podria servir para determinar factores de deserción en empleos no necesariamente de IBM, es decir teniendo en cuenta empresas tecnológicas, bajo algunas condiciones similares se podrian establecer los motivos de desgaste de empleados.
